@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kH8ZRrqmyMFB8LuxDJL5OFx2M-hHRDgBZ8mg_tClpGxGQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DBC Live
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761334537/ei/qYD7aLSHBq_4ruEP0OCkuAo/ip/64.236.143.36/id/7xoFz5czzjA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/gcr/us/bui/ATw7iSWtqanjoMGfT5Y21V_u9ZB8MEuaswQDAoodm4IHUDT8QuxVu7taz0sKfTyzSb613f7v0yJIg6l7/spc/hcYD5bVOdAKBvIctCIbenmgYlKyCoMZmO3NnNFAyCJhLICl4zzw0yTc4fc4VyHJlVjE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPJHp6N3wnmYvEVSJxKfO5IkqPrVnuYMTKTVMc0wCFi7AiEAwZpj0VsZEE_9p3a8_IBpm6S94f9nS79TF_2wgpShjcg%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nL2jYMpSFZHSV47_1T3Kdx_oACYy6EB7G9bzWr_UQJMw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", BTV LIVE
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8

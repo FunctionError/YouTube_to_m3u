@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mGInWY5NqAdwf25hydl8yex5nuT7vcEqmoT4VKSyiDNLm3=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Reuters
-https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767728760/ei/GBJdafW7Hq6ylu8PuI2riQ0/ip/172.182.225.0/id/3o_HmXgky0Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3BMb-S03BoM1Uon1W69XopHDFs6zbYo3GcJng_ajJwIumFtd2CCRauZ2qxYzYdc3rqHWGUoGXYi/spc/wH4Qq8DpAYYSRIpZE8UuFyyKBoCme_1x3JMUvtGu-Sf6PkUTecQVk5AVWoUtTKMAy_w/vprv/1/go/1/ns/jmzqkCN2xCXlK7Jdqzz4_vcR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/lwFTiyemxChYzc3OhX/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgb06dS3LHPSLuodq0u2vrqxgTh3AhigUWBf1ncT-xAikCIClpjWH7nXa_lzTr3v8-_hwCc-ZGX7U5twBqXY1RZZoy/file/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/r2ZGA9E-wWJha_PIoNh8df3C_Y8uenieTqQ-Qj2-ibWQ6T__-mVxUvplOqoagFLsicskn-j3sw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", WINO
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
